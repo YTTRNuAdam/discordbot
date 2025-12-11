@@ -1,2 +1,2 @@
 # discordbot
-TRNuAdam [YouTube] için hazırlanmış olan discor botu.
+TRNuAdam [YouTube] için hazırlanmış olan discord botu.
